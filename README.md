@@ -1,7 +1,7 @@
 # Simple-Transparent-Login-Page
 
 ## Overview
-This project is a simple login page with a transparent login form. The background of the body features a moving GIF of an unspecified character, providing a dynamic visual effect.
+This project is a simple login page with a transparent login form. The background of the body features a moving GIF character, providing a dynamic visual effect.
 
 ## Features
 Transparent Login Form: The login form is designed to be transparent, giving a sleek and modern look.
